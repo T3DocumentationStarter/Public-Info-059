@@ -40,4 +40,7 @@ Extension
 
 Extensions are ...
 
+Image
+=====
 
+.. image:: 013.png
