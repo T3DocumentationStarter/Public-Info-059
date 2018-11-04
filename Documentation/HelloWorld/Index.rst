@@ -2,9 +2,9 @@
 .. include:: ../Includes.txt
 
 ============
-Hello World!
+First idea
 ============
 
-Here I go!
+Here I go!..
 
 
