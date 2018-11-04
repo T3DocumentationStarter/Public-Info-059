@@ -2,9 +2,24 @@
 .. include:: ../Includes.txt
 
 ============
-First idea
+TYPO3 Terms
 ============
 
-Here I go!..
+Backend
+=======
+
+Columns
+-------
+
+* modules column
+* pagetree column
+* main column
+
+
+
+Frontend
+========
+
+...
 
 
